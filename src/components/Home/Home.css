@@ -1,0 +1,87 @@
+.motto-header {
+  font-weight: 1000;
+  font-size: 44px;
+  color: black;
+  display: block;
+  unicode-bidi: isolate;
+  line-height: 60px;
+}
+.text-below-motto {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.first-img img {
+  height: fit-content;
+  border-radius: 16px;
+  max-height: 320px;
+  border-radius: 10%;
+  /* height: 320px; */
+}
+.first-div-row {
+  background: linear-gradient(to top, rgb(209, 245, 213), #ffffff);
+  min-height: max-content;
+}
+.btn-primar {
+  background: rgb(57, 181, 74);
+  color: #ffffff;
+  border: 2px;
+  border-style: solid;
+  transition: all, 0.5s;
+}
+
+.btn-primar:hover {
+  border-color: rgb(57, 181, 74);
+  color: rgb(57, 181, 74);
+  background: linear-gradient(to bottom, rgb(209, 245, 213), #ffffff);
+}
+
+.second-div {
+  max-width: 680px;
+}
+
+.second-div .header {
+  font-weight: 500;
+  line-height: 48px;
+  color: black;
+  font-size: 38px;
+}
+.second-div a {
+  color: rgb(57, 181, 74);
+}
+.third-div-row {
+  background: linear-gradient(to right, rgb(209, 245, 213), #ffffff);
+  min-height: max-content;
+}
+.third-img img {
+  height: fit-content;
+  border-radius: 16px;
+  max-height: 540px;
+
+  /* height: 320px; */
+}
+.third-div-row .motto-header {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+}
+.third-div-row .text-below-motto {
+  font-weight: 400;
+}
+.third-div-row a {
+  color: rgb(57, 181, 74);
+}
+.fourth-div-row .motto-header {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+}
+
+.fourth-div-row .title-here {
+  color: #603913;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 0px;
+  
+}

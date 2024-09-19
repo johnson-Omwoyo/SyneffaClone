@@ -1,0 +1,58 @@
+.dropdown-menu .dropdown-item {
+  background-color: white;
+  color: black;
+  font-family: "Mark", sans-serif;
+  font-size: small;
+  font-weight: 600;
+  transition: all 0.15s;
+}
+
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+  color: rgb(57, 181, 74);
+}
+
+.dropdown-item:active {
+  background-color: #e2e6ea;
+  color: #0d6efd;
+}
+.nav-item .nav-link {
+  font-family: "Mark", sans-serif;
+  font-size: small;
+  font-weight: 700;
+}
+.dropdown .btn {
+  font-family: "Mark", sans-serif;
+
+  font-size: small;
+  font-weight: 600;
+  transition: all, 0.3s;
+}
+.dropdown .btn:hover {
+  color: rgb(57, 181, 74);
+}
+.nav-item .btn-primary {
+  font-size: small;
+  font-weight: 600;
+  background-color: rgb(57, 181, 74);
+  border: solid;
+  border-color: rgb(57, 181, 74);
+  transition: background-color, 0.2s;
+}
+.nav-item .btn-primary:hover {
+  border-color: rgb(57, 181, 74);
+  border: solid;
+  background-color: transparent;
+  color: rgb(57, 181, 74);
+}
+.main-cont {
+  margin-top: 0px;
+  margin-left: -18px;
+}
+.mx-3 .nav-link {
+  color: black;
+  transition: all, 0.3s;
+}
+.mx-3 .nav-link:hover {
+  color: rgb(57, 181, 74);
+}
